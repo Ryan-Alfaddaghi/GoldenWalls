@@ -1,22 +1,25 @@
-
-
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+﻿body {
+  background: url(../img/lightpaperfibers_@2X.png) repeat;
+  font-size: 16px;
+}
+.worldwide {
+  padding-bottom: 20px;
+}
+.formBorder {
+  border: 2px solid #262b44;
+  border-radius: 30px;
+}
+.title {
+  padding: 20px;
+  background: #262b44 ;
+  margin-top: -30px;
+  color: #ffffff;
+}
+.form-control {
+  background-color: transparent;
+  box-shadow: none;
+  border: none;
+  border-radius: 0px;
+  border-bottom: solid 1px #808080;
+}
+/*# sourceMappingURL=main.css.map */
